@@ -1,0 +1,19 @@
+.animalsList {
+    width: 300px;
+    height: 500px;
+    overflow: scroll;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    border-color: black;
+    border: ridge;
+    padding:20px;
+}
+/* I created those two classes to manipulate the DOM elements by pressing each button.
+Other tha that, there is no styling or other purpose to them */
+.anyAnimal{
+
+}
+.penguin{
+
+}
